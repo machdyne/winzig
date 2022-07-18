@@ -2,6 +2,8 @@
 
 Winzig is a programmable logic module designed to be plugged into a solderless breadboard.
 
+![Winzig Logic Module](https://github.com/machdyne/winzig/blob/ac6afc206d34c8c0454f66209352230bc85ab328/winzig.png)
+
 This repo contains schematics, pinouts and example gateware.
 
 Find more information on the [Winzig product page](https://machdyne.com/product/winzig-logic-module/).
