@@ -1,0 +1,30 @@
+set_io CLK_100		29
+
+set_io LED			27
+
+set_io GPIO0		18
+set_io GPIO1		19
+set_io GPIO2		20
+set_io GPIO3		22
+set_io GPIO4		23
+set_io GPIO5		26
+
+set_io PMOD_A1		8
+set_io PMOD_A2		6
+set_io PMOD_A3		2
+set_io PMOD_A4		32
+set_io PMOD_A7		7
+set_io PMOD_A8		5
+set_io PMOD_A9		1
+set_io PMOD_A10	31
+
+set_io UART_RTS	8
+set_io UART_RX		6
+set_io UART_TX		2
+set_io UART_CTS	32
+
+set_io SPI_SS_FLASH	14
+set_io SPI_SS_RAM		30
+set_io SPI_SCK			15
+set_io SPI_MISO		13	# CSPI_SI
+set_io SPI_MOSI		12	# CSPI_SO
