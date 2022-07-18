@@ -23,7 +23,7 @@ Assuming they are installed, you can simply type `make` to build the gateware, w
 
 ### Writing blinky to SRAM
 
-Connect the MMOD socket to the approprate pins of an ldprog-supported device.
+Connect the MMOD socket to the appropriate pins of an ldprog-supported device.
 
 You will need to use the manual reset option (-m) with ldprog and press the Winzig reset button when prompted to do so. Alternatively, you can solder a wire to the CRESET pad on the back of Winzig to automate this step.
 
